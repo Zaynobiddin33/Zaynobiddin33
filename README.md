@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on a marketplace
  
- 🌱 I’m currently learning Docker, Nginx, AWS
+ 🌱 I’m currently learning Docker, Nginx, TeleBot
 
-💬 Ask me about Python, Django, REST-API... or anything [here](https://github.com/Zaynobiddin33/Zaynobiddin33/issues)
+💬 Ask me about Python, Django, REST-API... or anything [here](https://github.com/Zaynobiddin33/Zaynobiddin33/is\\sues)
 
 ⚡️ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,rest,postgresql" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgresql" />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github" /><br>
 </div>
 
