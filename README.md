@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kirito016002.Kirito016002" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zaynobiddin33.Zaynobiddin33" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sobirjob+Solijonov!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shoxobiddinov+Zaynobiddin!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate backend developer in Uzbekistan 🇺🇿</h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on a marketplace
  
- 🌱 I’m currently learning Docker, Supabase, AWS
+ 🌱 I’m currently learning Docker, Nginx, AWS
 
-💬 Ask me about Node.js, React, Firebase... or anything [here](https://github.com/Kirito016002/Kirito016002/issues)
+💬 Ask me about Python, Django, REST-API... or anything [here](https://github.com/Zaynobiddin33/Zaynobiddin33/issues)
 
 ⚡️ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
