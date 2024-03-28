@@ -21,10 +21,10 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:sobirjonsolijonov2004@gmail.com">
+  <a href="mailto:zaynobiddinshaxobiddinov9999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/sobirjon-solijonov-69b1102b8/" target="_blank">
+  <a href="https://www.linkedin.com/in/zaynobiddin-shoxobiddinov-20b3502b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
