@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaynobiddin!;" />
 </h1>
 
-<h3 align="center">A passionate backend developer in Uzbekistan 🇺🇿</h3>
+<h3 align="center">A Backend developer</h3>
 
 <br/>
 
@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on a marketplace
  
- 🌱 I’m currently learning Docker, Nginx, TeleBot
+ 🌱 I’m currently learning Nginx, Pandas, Tensorflow
 
 💬 Ask me about Python, Django, REST-API... or anything [here](https://github.com/Zaynobiddin33/Zaynobiddin33/is\\sues)
 
-⚡️ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
+⚡️ The largest known black hole, located in the galaxy NGC 1277, has a mass equivalent to 17 billion times that of the Sun.
 
  </div>
  
