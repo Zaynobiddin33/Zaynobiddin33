@@ -41,12 +41,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github" /><br>
 </div>
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zaynobiddin33/Zaynobiddin33/output/github-contribution-grid-snake.svg" />
-  
-</div>
