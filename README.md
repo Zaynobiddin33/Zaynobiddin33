@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zaynobiddin33.Zaynobiddin33" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaynobiddin!;" />
+    Greetings, I'm Zaynobiddin
 </h1>
 
 <h3 align="center">A Backend developer</h3>
@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a marketplace
+ I’m currently working on a marketplace
  
- 🌱 I’m currently learning Nginx, Pandas, Tensorflow
+ I’m currently learning Pandas, Tensorflow, Pytorch
 
 💬 Ask me about Python, Django, REST-API... or anything [here](https://github.com/Zaynobiddin33/Zaynobiddin33/is\\sues)
 
-⚡️ The largest known black hole, located in the galaxy NGC 1277, has a mass equivalent to 17 billion times that of the Sun.
+Fun fact: The largest known black hole, located in the galaxy NGC 1277, has a mass equivalent to 17 billion times that of the Sun.
 
  </div>
  
