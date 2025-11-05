@@ -16,7 +16,7 @@
 
 💬 Ask me about Python, Django, REST-API... or anything [here](https://github.com/Zaynobiddin33/Zaynobiddin33/is\\sues)
 
-Fun fact: The largest known black hole, located in the galaxy NGC 1277, has a mass equivalent to 17 billion times that of the Sun.
+Fun fact: Group of owls are called Parliament
 
  </div>
  
@@ -37,7 +37,7 @@ Fun fact: The largest known black hole, located in the galaxy NGC 1277, has a ma
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,postgresql," />
+    <img src="https://skillicons.dev/icons?i=python,django,postgresql,ubuntu" />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github" /><br>
 </div>
 
