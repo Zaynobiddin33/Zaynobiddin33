@@ -37,7 +37,7 @@ Fun fact: Group of owls are called Parliament
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,postgresql,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgresql,linux,ubuntu,docker,pytorch" />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github" /><br>
 </div>
 
